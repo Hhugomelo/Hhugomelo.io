@@ -1,0 +1,132 @@
+body{
+	background-color:grey;
+}
+
+
+
+.page{ 
+	width : 780px;
+	margin : auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size : 16px; 
+	border : 5px solid #3388CC;
+	padding : 20px;
+	background-color : white;
+	
+}
+
+.photo2 {
+	float : right;
+	margin-right : 50px;
+}
+
+.photo3 {
+	
+	margin-top : 60px;
+
+	
+}
+.info2 {
+	border-width:3px;
+	border-style:groove;
+	border-color:black;
+	width : 275px;
+	margin-left : 20px;
+	margin-top : 50px;
+}
+.bouton {
+	margin-top: 50px;
+	
+
+}
+
+	.button {
+		background-color: #ff6a19;
+		border: none;
+		color: white;
+		padding: 15px;
+		text-align : center;
+		text-decoration:none;
+		display: incline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		border-radius : 2rem;
+
+	}
+	
+
+	.button2 {
+		margin-top : 40px;
+	}
+
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float : left;
+}
+
+.photo{
+	float : right
+}
+
+h1{
+	float : middle;
+}
+
+.section{
+	margin-bottom : 60px;
+	text-align: justify;
+}
+
+.sec-gauche{
+	float : left;
+	font-weight : bold;
+	font-size : 20px;
+}
+.sec-droite{
+	margin-left : 150px;
+	margin-top : 35px;
+}
+
+h2{
+	font-size : 28px;
+	color : #3388BB;
+	border-bottom : 3px solid #3388DD;
+}
+
+.durée{
+	font-weight : normal;
+	font-style : italic;
+	font-size : 20px;
+}
+.titre{
+	font-weight : bold;
+	font-size : 20px;
+}
+
+#forma-gauche p{
+	margin-bottom : 35px;
+}
+
+.sec-niveau {
+	margin-left : 150px;
+	margin-top : 0px;
+	font-size : 20px;
+	margin-bottom : 60px;
+	
+}
+
+.objectif {
+	font-weight : bold;
+	font-size : 20px;
+}
+	
+
+	
+	
+	
+
+	
